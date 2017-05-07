@@ -5,4 +5,4 @@
 sudo git clone https://github.com/Mr-Linus/FRP-ClientBash.git
 
 执行
-sudo ./Frp-Client.sh 即可实现自动安装FRP客户端
+sudo ./FRP-ClientBash/Frp-Client.sh 即可实现自动安装FRP客户端
